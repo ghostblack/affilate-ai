@@ -1,5 +1,3 @@
-/// <reference types="vite/client" />
-
 // Allow process.env usage in TypeScript
 declare namespace NodeJS {
   interface ProcessEnv {
